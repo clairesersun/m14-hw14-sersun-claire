@@ -1,5 +1,7 @@
 # Use Bootstrap to Style
 
+![Bootstrap Icon](/Assets/bootstrap-icon.png)
+
 ## I Used:
 
 - Navbar (collapsing on smaller screens, fixed on top of page, and scrollspy)
@@ -9,5 +11,3 @@
 - Block quote
 - Buttons
 - Modal
-
-![Bootstrap Icon](/Assets/bootstrap-icon.png)
